@@ -1,0 +1,24 @@
+body{
+    background-color: slateblue;
+    margin: auto;
+}
+
+
+.linha{
+    display: flex;
+}
+.caixa1{
+    background-color: aquamarine;
+    width: 960px;
+}
+.caixa2{
+    background-color: aqua;
+    width: 960px;
+}
+.dogs{
+    display: flex;
+    gap: 360px;
+}
+.linha2{
+    padding: 13px;
+}
