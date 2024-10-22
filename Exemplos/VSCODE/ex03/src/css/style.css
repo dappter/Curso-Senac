@@ -114,7 +114,8 @@
 }
 .conteudo-secundario button{
     padding: 15px;
-    margin: 65px;
+    margin: 50px;
+    width: 450px;
     border-radius: 5px;
     background-color: #04473d;
     font-style: bolder;
