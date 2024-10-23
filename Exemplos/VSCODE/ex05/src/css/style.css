@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.caixa1{
+    background-color: blue;
+    color: yellow;
+    width: 300px;
+    height: 150px;
+    border: solid black 5px;
+    margin: 10px;
+    box-shadow: 5px 5px 4px black;
+    transition: 1s;
+    border-radius: 15px;
+}
+.caixa1:hover{
+    border: solid green 5px;
+    box-shadow: 5px 5px 40px green;
+}
+.caixa1 a{
+    text-decoration: none;
+    background-color: rebeccapurple;
+    color: white;
+}
+.caixa2{
+    background-color: yellow;
+    color: blue;
+    width: 150px;
+    height: 150px;
+    border: inset 5px;
+    margin: 10px;
+    box-shadow: 5px 5px 40px yellow;
+    border-radius: 15px;
+}
+.caixa2:hover{
+    border: solid green 5px;
+    box-shadow: 5px 5px 40px green;
+}
+.caixa2 p{
+    background-color: rgb(30, 255, 68);
+}
