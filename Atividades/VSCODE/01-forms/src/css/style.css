@@ -1,0 +1,53 @@
+.konkhmer-sleokchher-regular {
+  font-family: "Konkhmer Sleokchher", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  background-color: black;
+}
+.card{
+  display: flex;
+  margin: auto;
+  margin-top: 300px;
+  width: 340px;
+  height: 440px;
+  background-color: white;
+  border-radius: 15px;
+  border: 3px solid black;
+  box-shadow: 8px 8px 8px white;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+}
+.labels{
+  color: black;
+  margin: 10px;
+}
+input{
+  width: 300px;
+  height: 50px;
+  border-radius: 5px;
+  margin: 10px;
+  align-items: center;
+  color: black;
+  border: 0;
+  background-color: rgb(168, 166, 166);
+  text-decoration: none;
+}
+input::placeholder{
+  padding-left: 10px;
+  color: black;
+  font-weight: bolder;
+}
+#botão{
+  font-size: 16px;
+  width: 300px;
+  height: 50px;
+  margin-top: 200px;
+  background-color: black;
+  color: white;
+  
+}
