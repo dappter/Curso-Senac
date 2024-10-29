@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+main{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows:  100px 100px 100px 100px 100px 100px 100px 100px;
+}
+.caixa{
+  width: 80px;
+  height: 80px;
+}
+.caixa1{
+  height: 300px;
+  width: 100%;
+  background-color: red;
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+.caixa2{
+  height: 300px;
+  width: 100%;
+  background-color: yellow;
+  grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 6;
+  grid-row-end: 9;
+}
+.caixa3{
+  height: 400px;
+  width: 100%;
+  background-color: blue;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 5;
+}
+.caixa4{
+  height: 100px;
+  width: 100%;
+  background-color: green;
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 6;
+}
