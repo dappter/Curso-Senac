@@ -1,0 +1,102 @@
+body{
+  grid-template-columns: repeat(12,1fr);
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.menu{
+  grid-column: 1/13;
+  width: 100%;
+  height: 54px;
+  background-color: #A6B2FF;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu img{
+  width: 49px;
+  height: 76px;
+}
+
+header figure{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav{
+  margin-right: 70px;
+}
+nav li{
+  list-style: none;
+}
+nav ul li a{
+  color: black;
+  text-decoration: none;
+  margin:70px;
+}
+
+.cards{
+  display: flex;
+  margin: 30px;
+}
+
+.cards h1{
+  border-radius: 10px;
+  background-color: white;
+}
+
+.cards img{
+  width: 60%;
+  height: 50%;
+}
+
+.card1{
+  background-color: #D9D9D9;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+  border-radius: 7px;
+}
+
+.card2{
+  align-items: center;
+  justify-content: center;
+  background-color: #D9D9D9;
+  margin: 50px;
+  border-radius: 7px;
+}
+.card3{
+  background-color: #D9D9D9;
+  margin: 50px;
+  border-radius: 7px;
+}
+footer{
+  background-color: black;
+  width: 100%;
+  height: 70px;
+}
+
+footer p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+div:hover{
+  background-color: #A6B2FF;
+}
+
+a:hover{
+  color: white;
+}

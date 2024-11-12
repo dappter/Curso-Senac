@@ -1,0 +1,140 @@
+body{
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.banner{
+  grid-column: 1/13;
+}
+.banner img{
+  width: 100%
+}
+
+.menu{
+  grid-column: 1/13;
+  width: 100%;
+  height: 54px;
+  background-color: #A6B2FF;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu img{
+  width: 49px;
+  height: 76px;
+}
+
+header figure{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav{
+  margin-right: 70px;
+}
+nav li{
+  list-style: none;
+}
+nav ul li a{
+  color: black;
+  text-decoration: none;
+  margin:70px;
+}
+
+nav ul li a:hover{
+  color: white;
+}
+
+.conteudo{
+  grid-column: 1/10;
+  margin-top: 10px;
+  width: 100%;
+  height: 100%;
+  background-color: #D9D9D9;
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+}
+
+/* Posicionando no grid conteudo */
+
+.imagem1{
+  grid-column: 1/3; 
+  grid-row: 1/2;
+}
+
+
+.imagem2{
+  grid-column: 1/3;
+  grid-row: 2/3;
+}
+.conteudo img {
+  width: 100%;
+}
+
+.historia{
+  grid-column: 3/5;
+  grid-row: 1/3;
+  background-color: #A6B2FF;
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  
+}
+
+.curiosidade{
+  grid-column: 5/7;
+  grid-row: 1/2;
+  background-color: white;
+  width: 290px;
+  height: 280px;
+  margin: 20px;
+  margin-left: 100px;
+}
+
+.curiosidade:hover{
+  background-color: #A6B2FF;
+}
+.imagem3{
+  grid-column: 5/7;
+  grid-row: 2/3;
+}
+.biografia{
+  grid-column: 10/13;
+  background-color: #D9D9D9;
+  width: 100%;
+  margin-top: 5px;
+  height: 640px;
+  display: flex;
+  flex-wrap:wrap;
+  
+}
+
+.biografia img{
+  width: 130px;
+  height: 180px;
+}
+
+.p0{
+  width: 20%;
+}
+.p1{
+  width: 60%;
+}
+footer{
+  grid-column: 1/13;
+  background-color: black;
+  width: 100%;
+}
+
+footer p{
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+
+

@@ -1,0 +1,72 @@
+.menu{
+  grid-column: 1/13;
+  width: 100%;
+  height: 54px;
+  background-color: #A6B2FF;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu img{
+  width: 49px;
+  height: 76px;
+}
+
+header figure{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav{
+  margin-right: 70px;
+}
+nav li{
+  list-style: none;
+}
+nav ul li a{
+  color: black;
+  text-decoration: none;
+  margin:70px;
+}
+
+a:hover{
+  color: white;
+}
+
+.titulo{
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #D9D9D9;
+  height: 150px;
+}
+
+.formulario{
+  display: flex;
+  justify-content: center;
+  background-color: #D9D9D9;
+  height: 550px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+input{
+  margin-left: 200px;
+}
+footer{
+  grid-column: 1/13;
+  background-color: black;
+  width: 100%;
+  height: 70px;
+}
+
+footer p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
