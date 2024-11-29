@@ -8,3 +8,4 @@ Atalhos que Aprendi:
 CTRL K + CTRL C = comentário 
 CTRL D = Seleciona elementos de mesmo nome
 CTRL + SHIFT + K = apaga uma linha inteira
+CTRL + SHIFT + L = seleciona tudo que você selecionou
