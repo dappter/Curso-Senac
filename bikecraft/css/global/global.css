@@ -2,8 +2,6 @@ body{
   margin: 0;
   font-family: Arial, Helverica, sans-serif;
   color: #111111;
-  padding-bottom: 600px;
-
 }
 
 ul{
@@ -17,7 +15,7 @@ a{
   color: inherit;
 }
 
-h1 h2, h3, h4, ul, p{
+h1 h2, h3, h4, ul, p, blockquote{
   margin: 0px;
 }
 
