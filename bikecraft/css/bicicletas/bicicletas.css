@@ -1,5 +1,5 @@
 .bicicletas-bg{
-  background-color: var(--c11);
+  background: linear-gradient(to right, var(--w) 30%, var(--c11) 0%);
 }
 
 .bicicletas{
