@@ -1,11 +1,39 @@
-Tudo que eu aprendi no curso Progamador Web no SENAC (Serviço Nacional de Aprendizagem Comercial)
+# 💻 Curso Programador Web - SENAC
 
-Portugol - Lógica de Programação
-HTML, CSS e JS - Progamação Web
+Tudo que eu aprendi no curso **Programador Web** no **SENAC (Serviço Nacional de Aprendizagem Comercial)**.
 
-Atalhos que Aprendi:
+## 📚 Conteúdos Aprendidos
 
-CTRL K + CTRL C = comentário 
-CTRL D = Seleciona elementos de mesmo nome
-CTRL + SHIFT + K = apaga uma linha inteira
-CTRL + SHIFT + L = seleciona tudo que você selecionou
+### 🧠 Lógica de Programação (Portugol)
+
+- Algoritmos
+- Variáveis
+- Condicionais
+- Estruturas de repetição
+- Funções
+
+### 🌐 Programação Web
+
+- **HTML:** estrutura da página  
+- **CSS:** estilização da interface  
+- **JavaScript:** interatividade e lógica no navegador
+
+## ⌨️ Atalhos Úteis que Aprendi
+
+| Atalho                   | Função                                |
+|--------------------------|----------------------------------------|
+| `CTRL + K` + `CTRL + C`  | Comentar linhas                       |
+| `CTRL + D`               | Selecionar elementos com mesmo nome   |
+| `CTRL + SHIFT + K`       | Apagar uma linha inteira              |
+| `CTRL + SHIFT + L`       | Selecionar todas as ocorrências       |
+
+---
+
+## 🚀 Tecnologias Usadas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/henriquepalmeida/imagens-readme/main/portugol-logo.png" alt="portugol" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+</p>
