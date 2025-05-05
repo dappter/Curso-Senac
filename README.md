@@ -31,8 +31,8 @@ Tudo que eu aprendi no curso **Programador Web** no **SENAC (Serviço Nacional d
 
 ## 🚀 Tecnologias Usadas
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/henriquepalmeida/imagens-readme/main/portugol-logo.png" alt="portugol" width="60" height="60"/>
+<p display="flex">
+  <img src="https://4.bp.blogspot.com/-QoH9IjCX0SI/XGoWG98CQYI/AAAAAAAADuw/-fFfOYzHsEcgXi1_kEzaR4ruUV43EBgmACLcBGAs/s1600/thumb.jpg" alt="portugol" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
